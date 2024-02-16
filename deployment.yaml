@@ -15,5 +15,5 @@ spec:
         app: bishal-pet-deploy
     spec:
       containers:
-        - image: bishal1234/bishal:8
+        - image: bishal1234/bishal:12
           name: bishal-pet
